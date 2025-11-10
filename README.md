@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bedu</h1>
 
-![bagas](img/banner.png)
-
 # About Me:
-🔭 I’m currently working on **HrdApps**
+🔭 I’m currently working on **HrdApps & Emibalitour**
 <br>
 🌱 I’m currently learning **Flutter**
 
