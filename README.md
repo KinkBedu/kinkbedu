@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bedu</h1>
+<h1 align="center">I'm Bedu</h1>
 
-# About Me:
-🔭 I’m currently working on **HrdApps & Emibalitour**
+I’m currently working on **Washfast**
 <br>
-🌱 I’m currently learning **Flutter**
+I’m a React Native/Expo expert
 
 # Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KingBedu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kingbdu_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingbeducok@gmail.com) 
