@@ -8,9 +8,7 @@
 
 ![status](https://img.shields.io/badge/currently-online-brightgreen)
 ![playing](https://img.shields.io/badge/playing-valorant-red)
-![coding](https://img.shields.io/badge/working_on-washfast-blue)
+![coding](https://img.shields.io/badge/build-washfast-blue)
 ![listening](https://img.shields.io/badge/listening-nothing-purple)
-
-<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/KingBedu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kingbeducok@gmail.com) 
